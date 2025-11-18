@@ -1,0 +1,4 @@
+
+Software is mainly of three types: System software, Application software, and Programming software
+System software runs the computer, application software helps us do tasks, and programming software is used to create other software
+.....
