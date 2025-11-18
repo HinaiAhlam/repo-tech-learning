@@ -11,3 +11,8 @@ This focuses on the parts of a website that users interact with directly. Using 
 
 Back-End Development
 The back end is responsible for the server, database, and application logic. Developers use languages such as Python, PHP, Java, or Node.js to manage data, authentication, and overall functionality behind the scenes.
+
+
+
+database
+A database is an organized collection of data that can be easily stored, accessed, and managed, often using tables, so multiple users or applications can retrieve and update information efficiently.
