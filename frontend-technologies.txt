@@ -12,3 +12,6 @@ Tools: Webpack, Babel, npm/yarn
 
 Mobile: React Native, Flutter, Swift (iOS), Kotlin (Android)
 
+
+
+Frontend technologies" refer to the tools, languages, frameworks, and libraries used to build the client-side part of a website or web application—the part that users see and interact with in their browser. In simpler terms, frontend technologies are responsible for how a website looks and behaves.

@@ -1,3 +1,9 @@
 Technologies that are backed by investment or funding (like venture-backed startups and their tech)?
 
 Technologies that have strong support or backing from companies or governments?
+
+
+
+
+
+“Backend technologies” refer to the tools, frameworks, and programming languages used to build the server-side of a software application or website. Unlike the frontend, which deals with what users see and interact with, the backend is responsible for storing, processing, and managing data, handling business logic, and ensuring the frontend can display the right information.
