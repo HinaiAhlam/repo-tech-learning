@@ -18,4 +18,11 @@ Mobile Apps
 
 Software made for mobile phones.
 
-Example: Instagram, TikTok, Uber 
+Example: Instagram, TikTok, Uber
+
+
+
+Desktop Applications
+ChatGPT said:Desktop Applications are software programs installed and run on a computer (like Windows, macOS, or Linux).
+They don’t need a web browser and work directly from the desktop.
+Examples: MS Word, Photoshop, VLC Player, Notepad. 
