@@ -1,0 +1,21 @@
+Git is a tool that helps you track changes in your files and work with others on the same project without messing things up. It remembers every change you make, so you can go back to older versions anytime.
+
+Why Git is useful:
+
+You can undo mistakes by returning to previous versions.
+
+You can work on new features in separate branches without breaking the main project.
+
+It makes teamwork easier, because everyone’s changes can be combined smoothly.
+
+Basic Git workflow:
+
+git init – Start a new Git project.
+
+git add – Select the files you want to track.
+
+git commit – Save a snapshot of your changes.
+
+git push – Upload your changes to online storage like GitHub.
+
+git pull – Download others’ changes.
